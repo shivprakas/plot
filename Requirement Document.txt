@@ -1,0 +1,7 @@
+Customer Requirement (the Problem Statement)
+--------------------------------------------
+I need a robust application to manage vehicles in my Parking Lot.
+
+First Phase
+------------
+Analysing & Fnalizing the Development Process like, Agile methodolocy, Water Fall methodlodogy etc.
